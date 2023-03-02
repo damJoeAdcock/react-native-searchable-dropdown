@@ -215,7 +215,6 @@ export default class SearchableDropDown extends Component {
         if (this.props.textInputProps && this.props.textInputProps.onBlur) {
           this.props.textInputProps.onBlur(e);
         }
-        this.setState({ focus: false, item: this.props.selectedItems });
       }
       }
       />
