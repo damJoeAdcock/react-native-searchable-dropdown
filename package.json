@@ -25,10 +25,10 @@
     "react searchable list",
     "react auto search dropdown"
   ],
-  "author": "Zubair Ibrahim <zubair.paizer11@gmail.com.com>",
+  "author": "Joe Adcock <joe.adcock@damdigital.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zubairpaizer/react-native-searchable-dropdown.git"
+    "url": "git://github.com/damJoeAdcock/react-native-searchable-dropdown.git"
   }
 }
